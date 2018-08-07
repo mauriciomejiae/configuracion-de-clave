@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\configuracion de clave\configuracion de clave\bin\Debug\configuracion de clave.exe.config
+C:\Users\Mauricio M\Downloads\configuracion de clave\configuracion de clave\bin\Debug\configuracion de clave.exe
+C:\Users\Mauricio M\Downloads\configuracion de clave\configuracion de clave\bin\Debug\configuracion de clave.pdb
+C:\Users\Mauricio M\Downloads\configuracion de clave\configuracion de clave\obj\Debug\configuracion de clave.exe
+C:\Users\Mauricio M\Downloads\configuracion de clave\configuracion de clave\obj\Debug\configuracion de clave.pdb
